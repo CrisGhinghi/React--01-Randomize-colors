@@ -1,5 +1,7 @@
 <h1 align="center">🔴 🟣 🟡 • Randomize Colors • 🟢 🟠 🔵 </h1>
 <h3 align="center">My first React project in a series<br>
+<br>
+https://randomizecolors.netlify.app
 
 # 01
 The most popular piece of advice I've received here on LinkedIn about my journey to become a developer was to get my hands dirty and create a variety of projects, even those that might seem useless or ridiculous to me.
