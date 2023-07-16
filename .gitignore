@@ -24,7 +24,4 @@ dist-ssr
 *.sw?
 
 public
-postcss.config.js
 .eslintrc.cjs
-tailwind.config.js
-vite.config.js
