@@ -21,3 +21,13 @@ Each project, no matter how trivial or seemingly senseless it may be, brings me 
 <p align="center">
   <img src="screenshot/randomize.png" alt="Size Limit CLI" width="738">
 </p>
+
+### Languages
+• HTML<br>
+• CSS<br>
+• [tailwindcss](https://tailwindcss.com)<br>
+• [React](https://react.dev)<br>
+
+### Bundler 
+[Vite](https://vitejs.dev)
+
