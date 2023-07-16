@@ -31,3 +31,5 @@ Each project, no matter how trivial or seemingly senseless it may be, brings me 
 ### Bundler 
 [Vite](https://vitejs.dev)
 
+### Webhost
+[Netlify](https://www.netlify.com)
