@@ -9,6 +9,7 @@ The most popular piece of advice I've received here on LinkedIn about my journey
 Well, no sooner said than done.
 
 I decided to dive into exploring React, and here's my very first project: a color randomizer.<br>
+<br>
 Useful? Not quite.<br>
 Silly? Well...
 
