@@ -18,3 +18,6 @@ Each project, no matter how trivial or seemingly senseless it may be, brings me 
 <p align="center">
   <img src="screenshot/randomize-colors.png" alt="Size Limit CLI" width="738">
 </p>
+<p align="center">
+  <img src="screenshot/randomize.png" alt="Size Limit CLI" width="738">
+</p>
