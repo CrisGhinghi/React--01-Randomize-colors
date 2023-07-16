@@ -14,3 +14,7 @@ Silly? Well...
 
 But it's not the project itself that matters, but the journey to get there. 
 Each project, no matter how trivial or seemingly senseless it may be, brings me one step closer to my goal.
+
+<p align="center">
+  <img src="screenshot/randomize-colors.png" alt="Size Limit CLI" width="738">
+</p>
